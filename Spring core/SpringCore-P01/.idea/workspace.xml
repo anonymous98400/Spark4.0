@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5eccdc1-6753-4cdf-90cc-468e441997c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cfs/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cfs/DieselEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cfs/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cfs/PetrolEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cfs/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/InjectionDemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/InjectionDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/InjectionDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/InjectionDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/InjectionDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/InjectionDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/InjectionDemo/src/main/java/org/example/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/InjectionDemo/src/main/java/org/example/DSA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/InjectionDemo/src/main/java/org/example/FactoryInjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/InjectionDemo/src/main/java/org/example/FullStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/InjectionDemo/src/main/java/org/example/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/InjectionDemo/src/main/java/org/example/app.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/InjectionDemo/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/TightCoupling/Tightcoupling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/TightCoupling/src/Diesel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/TightCoupling/src/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/TightCoupling/src/EngineFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/TightCoupling/src/Petrol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/TightCoupling/src/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TightCoupling/TightCoupling/src/test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anonymous98400"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GenieAshwani/Spark4.0.git",
+    "accountId": "9fb1ae45-64e9-4ecd-a655-829eff6bd962"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="30oK7wOrlJJwaLZTdSdt6bWvs00" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Test.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cfs.Test" />
+      <module name="SpringCore-P01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5eccdc1-6753-4cdf-90cc-468e441997c3" name="Changes" comment="" />
+      <created>1754288324933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754288324933</updated>
+    </task>
+    <servers />
+  </component>
+</project>
